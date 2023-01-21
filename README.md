@@ -1,7 +1,8 @@
 # Semi-Pro Resume Builder
 
 This application is a semi-professional version of a resume builder, designed to help users create and edit their resumes in a user-friendly, graphical interface.
-
+## Overview
+ - For overview of this project uou can open this link : https://github.com/13Aluminium/Resume_Builder/blob/main/resume_builder.pdf
 ## Features
 - Create and edit resumes in a WYSIWYG interface
 - Customizable templates for various industries
